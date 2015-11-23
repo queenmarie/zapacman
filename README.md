@@ -7,6 +7,5 @@ written in **html** **css** and **javascript**.
 
 ### Play here
 
-`
-http://www.dapacman.tk
-`
+[Visit Pacman!](http://www.dapacman.tk)
+
